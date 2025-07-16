@@ -1,0 +1,19 @@
+# Byte-compiled / cache files
+*.pyc
+__pycache__/
+
+# macOS system files
+.DS_Store
+
+# Swap files
+*.swp
+*.swo
+
+# Node modules (in case you use JS tooling later)
+node_modules/
+
+# Python egg info (if packaging)
+*.egg-info
+
+# Editor tags
+tags
