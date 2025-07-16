@@ -1,0 +1,30 @@
+# Frappe/ERPNext specific
+*.pyc
+__pycache__/
+*.log
+*.sqlite
+node_modules/
+env/
+frappe-env/
+sites/
+.bench/
+*.egg-info/
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# General
+*.DS_Store
+*.env
+*.bak
+*.tmp
+
+# Exclude Frappe framework and default apps
+bench/
+frappe/
+apps/frappe/
+apps/erpnext/
+
+# Include only your custom app
+!apps/library_management/
