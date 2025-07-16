@@ -2,6 +2,13 @@
 
 A web application built for the Simple Library Management System Coding Challenge. It features a Frappe Framework 15 backend with a custom REST API and a standalone React + TypeScript frontend for managing books, members, and loans. The app implements all required user stories (US-01 to US-10) and one stretch goal (SS-03: CSV export) and SS -02 with approximately 80% feature completion, prioritizing core functionality within the time constraints.
 
+## Demo
+
+Watch the demo video to see all user stories (US-01 to US-10) and the CSV export (SS-03) in action:
+
+All demo assets are available in this [Google Drive folder](https://drive.google.com/drive/folders/1-XshL3Vr4-RIz7L-V58SFpBQArsKBkfN?usp=drive_link).
+
+
 ##Features
 
 Book CRUD (US-01): Create, view, edit, and delete books (Title, Author, Publish Date, ISBN) via a custom frontend.
